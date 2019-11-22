@@ -13,3 +13,4 @@ if ! [ -L /var/www ]; then
 fi
 exec /home/vagrant/prueba.sh
 
+No he podido probarlo del todo porque no me funcionaba Vagrant por el tema del docker...
